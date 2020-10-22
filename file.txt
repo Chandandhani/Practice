@@ -1,5 +1,6 @@
 #!/bin/bash
 
 echo "Hi"
+echo "Its modified"
 echo "Hello"
 
