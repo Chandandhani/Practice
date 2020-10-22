@@ -4,4 +4,4 @@ echo "Hi"
 echo "Its modified"
 echo "Hello"
 echo "This is git file"
-
+echo "This is new line adding"
